@@ -1,0 +1,29 @@
+https://docs.espressif.com/projects/esp-idf/en/stable/esp32s3/hw-reference/esp32s3/user-guide-devkitc-1.html
+https://www.luisllamas.es/en/which-pins-can-i-use-on-esp32-s3/
+
+Digital:  (jogs connected to esp32, others connected to MCP23017)
+========
+
+2 jog     (deck a)
+3 enc
+4 but
+
+2 jog     (deck b)
+3 enc
+4 but
+
+3 enc     (mixer)
+2 but
+
+total: 23
+
+Analog: (connected to esp32)
+=======
+
+2 pot     (deck a)
+
+2 pot     (deck b)
+
+9 pot     (mixer)
+
+total: 13
